@@ -1,0 +1,49 @@
+sportbookName,sportName,league,eventName,gameTime,marketName,retrievedAt,betSelection,priceSelection,isLocked
+draftkings,basketball,NBA,ORL Magic @ CLE Cavaliers,2024-04-22T23:10:00.0000000Z,totals,2024-04-22 18:06:21.857580,ORL Magic 5.5,-112,True
+draftkings,basketball,NBA,ORL Magic @ CLE Cavaliers,2024-04-22T23:10:00.0000000Z,totals,2024-04-22 18:06:21.857608,CLE Cavaliers -5.5,-108,True
+draftkings,basketball,NBA,ORL Magic @ CLE Cavaliers,2024-04-22T23:10:00.0000000Z,spreads,2024-04-22 18:06:21.857620,Over 204.5,-110,True
+draftkings,basketball,NBA,ORL Magic @ CLE Cavaliers,2024-04-22T23:10:00.0000000Z,spreads,2024-04-22 18:06:21.857630,Under 204.5,-110,True
+draftkings,basketball,NBA,ORL Magic @ CLE Cavaliers,2024-04-22T23:10:00.0000000Z,money_line,2024-04-22 18:06:21.857640,ORL Magic,+180,True
+draftkings,basketball,NBA,ORL Magic @ CLE Cavaliers,2024-04-22T23:10:00.0000000Z,money_line,2024-04-22 18:06:21.857648,CLE Cavaliers,-218,True
+draftkings,basketball,NBA,PHI 76ers @ NY Knicks,2024-04-22T23:40:00.0000000Z,totals,2024-04-22 18:06:21.857668,PHI 76ers 5,-110,True
+draftkings,basketball,NBA,PHI 76ers @ NY Knicks,2024-04-22T23:40:00.0000000Z,totals,2024-04-22 18:06:21.857677,NY Knicks -5,-110,True
+draftkings,basketball,NBA,PHI 76ers @ NY Knicks,2024-04-22T23:40:00.0000000Z,spreads,2024-04-22 18:06:21.857686,Over 204.5,-110,True
+draftkings,basketball,NBA,PHI 76ers @ NY Knicks,2024-04-22T23:40:00.0000000Z,spreads,2024-04-22 18:06:21.857695,Under 204.5,-110,True
+draftkings,basketball,NBA,PHI 76ers @ NY Knicks,2024-04-22T23:40:00.0000000Z,money_line,2024-04-22 18:06:21.857704,PHI 76ers,+164,True
+draftkings,basketball,NBA,PHI 76ers @ NY Knicks,2024-04-22T23:40:00.0000000Z,money_line,2024-04-22 18:06:21.857712,NY Knicks,-198,True
+draftkings,basketball,NBA,LA Lakers @ DEN Nuggets,2024-04-23T02:10:00.0000000Z,totals,2024-04-22 18:06:21.857730,LA Lakers 7,-108,True
+draftkings,basketball,NBA,LA Lakers @ DEN Nuggets,2024-04-23T02:10:00.0000000Z,totals,2024-04-22 18:06:21.857739,DEN Nuggets -7,-112,True
+draftkings,basketball,NBA,LA Lakers @ DEN Nuggets,2024-04-23T02:10:00.0000000Z,spreads,2024-04-22 18:06:21.857747,Over 223.5,-112,True
+draftkings,basketball,NBA,LA Lakers @ DEN Nuggets,2024-04-23T02:10:00.0000000Z,spreads,2024-04-22 18:06:21.857756,Under 223.5,-108,True
+draftkings,basketball,NBA,LA Lakers @ DEN Nuggets,2024-04-23T02:10:00.0000000Z,money_line,2024-04-22 18:06:21.857766,LA Lakers,+245,True
+draftkings,basketball,NBA,LA Lakers @ DEN Nuggets,2024-04-23T02:10:00.0000000Z,money_line,2024-04-22 18:06:21.857774,DEN Nuggets,-305,True
+draftkings,basketball,NBA,PHO Suns @ MIN Timberwolves,2024-04-23T23:40:00.0000000Z,totals,2024-04-22 18:06:21.857791,PHO Suns 3,-108,True
+draftkings,basketball,NBA,PHO Suns @ MIN Timberwolves,2024-04-23T23:40:00.0000000Z,totals,2024-04-22 18:06:21.857800,MIN Timberwolves -3,-112,True
+draftkings,basketball,NBA,PHO Suns @ MIN Timberwolves,2024-04-23T23:40:00.0000000Z,spreads,2024-04-22 18:06:21.857809,Over 213,-110,True
+draftkings,basketball,NBA,PHO Suns @ MIN Timberwolves,2024-04-23T23:40:00.0000000Z,spreads,2024-04-22 18:06:21.857817,Under 213,-110,True
+draftkings,basketball,NBA,PHO Suns @ MIN Timberwolves,2024-04-23T23:40:00.0000000Z,money_line,2024-04-22 18:06:21.857826,PHO Suns,+130,True
+draftkings,basketball,NBA,PHO Suns @ MIN Timberwolves,2024-04-23T23:40:00.0000000Z,money_line,2024-04-22 18:06:21.857834,MIN Timberwolves,-155,True
+draftkings,basketball,NBA,IND Pacers @ MIL Bucks,2024-04-24T00:40:00.0000000Z,totals,2024-04-22 18:06:21.857852,IND Pacers 1.5,-112,True
+draftkings,basketball,NBA,IND Pacers @ MIL Bucks,2024-04-24T00:40:00.0000000Z,totals,2024-04-22 18:06:21.857861,MIL Bucks -1.5,-108,True
+draftkings,basketball,NBA,IND Pacers @ MIL Bucks,2024-04-24T00:40:00.0000000Z,spreads,2024-04-22 18:06:21.857870,Over 222.5,-110,True
+draftkings,basketball,NBA,IND Pacers @ MIL Bucks,2024-04-24T00:40:00.0000000Z,spreads,2024-04-22 18:06:21.857879,Under 222.5,-110,True
+draftkings,basketball,NBA,IND Pacers @ MIL Bucks,2024-04-24T00:40:00.0000000Z,money_line,2024-04-22 18:06:21.857888,IND Pacers,+100,True
+draftkings,basketball,NBA,IND Pacers @ MIL Bucks,2024-04-24T00:40:00.0000000Z,money_line,2024-04-22 18:06:21.857896,MIL Bucks,-120,True
+draftkings,basketball,NBA,DAL Mavericks @ LA Clippers,2024-04-24T02:10:00.0000000Z,totals,2024-04-22 18:06:21.857913,DAL Mavericks -2.5,-110,True
+draftkings,basketball,NBA,DAL Mavericks @ LA Clippers,2024-04-24T02:10:00.0000000Z,totals,2024-04-22 18:06:21.857922,LA Clippers 2.5,-110,True
+draftkings,basketball,NBA,DAL Mavericks @ LA Clippers,2024-04-24T02:10:00.0000000Z,spreads,2024-04-22 18:06:21.857932,Over 218,-108,True
+draftkings,basketball,NBA,DAL Mavericks @ LA Clippers,2024-04-24T02:10:00.0000000Z,spreads,2024-04-22 18:06:21.857940,Under 218,-112,True
+draftkings,basketball,NBA,DAL Mavericks @ LA Clippers,2024-04-24T02:10:00.0000000Z,money_line,2024-04-22 18:06:21.857949,DAL Mavericks,-142,True
+draftkings,basketball,NBA,DAL Mavericks @ LA Clippers,2024-04-24T02:10:00.0000000Z,money_line,2024-04-22 18:06:21.857957,LA Clippers,+120,True
+draftkings,basketball,NBA,MIA Heat @ BOS Celtics,2024-04-24T23:10:00.0000000Z,totals,2024-04-22 18:06:21.857975,MIA Heat 15,-110,True
+draftkings,basketball,NBA,MIA Heat @ BOS Celtics,2024-04-24T23:10:00.0000000Z,totals,2024-04-22 18:06:21.857984,BOS Celtics -15,-110,True
+draftkings,basketball,NBA,MIA Heat @ BOS Celtics,2024-04-24T23:10:00.0000000Z,spreads,2024-04-22 18:06:21.857992,Over 205,-110,True
+draftkings,basketball,NBA,MIA Heat @ BOS Celtics,2024-04-24T23:10:00.0000000Z,spreads,2024-04-22 18:06:21.858001,Under 205,-110,True
+draftkings,basketball,NBA,MIA Heat @ BOS Celtics,2024-04-24T23:10:00.0000000Z,money_line,2024-04-22 18:06:21.858010,MIA Heat,+850,True
+draftkings,basketball,NBA,MIA Heat @ BOS Celtics,2024-04-24T23:10:00.0000000Z,money_line,2024-04-22 18:06:21.858018,BOS Celtics,-1450,True
+draftkings,basketball,NBA,NO Pelicans @ OKC Thunder,2024-04-25T01:40:00.0000000Z,totals,2024-04-22 18:06:21.858035,NO Pelicans 7.5,-110,True
+draftkings,basketball,NBA,NO Pelicans @ OKC Thunder,2024-04-25T01:40:00.0000000Z,totals,2024-04-22 18:06:21.858044,OKC Thunder -7.5,-110,True
+draftkings,basketball,NBA,NO Pelicans @ OKC Thunder,2024-04-25T01:40:00.0000000Z,spreads,2024-04-22 18:06:21.858053,Over 211.5,-110,True
+draftkings,basketball,NBA,NO Pelicans @ OKC Thunder,2024-04-25T01:40:00.0000000Z,spreads,2024-04-22 18:06:21.858062,Under 211.5,-110,True
+draftkings,basketball,NBA,NO Pelicans @ OKC Thunder,2024-04-25T01:40:00.0000000Z,money_line,2024-04-22 18:06:21.858071,NO Pelicans,+270,True
+draftkings,basketball,NBA,NO Pelicans @ OKC Thunder,2024-04-25T01:40:00.0000000Z,money_line,2024-04-22 18:06:21.858080,OKC Thunder,-340,True
