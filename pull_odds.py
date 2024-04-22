@@ -90,7 +90,7 @@ def fetch_draftkings_sportbook():
         "priceSelection",
         "isLocked",
     ]
-    FILENAME = 'draftkings.csv'
+    FILENAME = "draftkings.csv"
     with open(FILENAME, "w", newline="") as file:
         # intialize csv class
         writer = csv.DictWriter(file, fieldnames=fieldnames)
@@ -145,11 +145,12 @@ def fetch_draftkings_sportbook():
                         }
                     )
 
+
 @click.command()
 @click.option("--poll", is_flag=True, help="Poll updating the csv every 5 seconds")
 def draftkings(poll: bool):
     while poll:
-        # Stay in while loop while grabbing data and writing 
+        # Stay in while loop while grabbing data and writing
         # to csv wait for 5 seconds before executing again
         fetch_draftkings_sportbook()
         print(f"Updating csv ...")
@@ -157,7 +158,10 @@ def draftkings(poll: bool):
 
     # run only once!
     fetch_draftkings_sportbook()
-    print(f"Successfully pulled the odds for draftkings please take look at csv for the results 🚀")
+    print(
+        f"Successfully pulled the odds for draftkings please take look at csv for the results 🚀"
+    )
+
 
 cli.add_command(draftkings)
 

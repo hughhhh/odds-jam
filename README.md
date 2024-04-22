@@ -12,8 +12,8 @@ Follow these steps to set up the script environment and install necessary depend
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/hughhhh/odds-jam.git
+   cd odds-jam
 
 2. **Create a Virtual Environment**
    ```bash
@@ -24,8 +24,6 @@ Follow these steps to set up the script environment and install necessary depend
 
 # Usage
 To use the script, you can perform a one-time pull of the odds or run it in a polling mode which continuously checks and updates the odds.
-
-## One-time Pull:
 ```
 # One time pull
 python pull_odds.py draftkings
@@ -34,5 +32,5 @@ python pull_odds.py draftkings
 python pull_odds.py draftkings --poll
 ```
 
-## Stopping the Script
+### Stopping the Script
 To stop the script when it's running in polling mode, you can simply press CTRL+C in your terminal. This will terminate the script.
